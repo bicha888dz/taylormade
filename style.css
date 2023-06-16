@@ -779,8 +779,8 @@ a:hover, a:focus, a:visited, a:active {
 /***** Above Header *****/
 .time-left-wrapper{
 	position: absolute;
-	right: 170px;
-	top: 220px;
+	right: 150px;
+	top: 200px;
 	height: 200px;
 	width: 200px;
 	border-radius: 50%;
